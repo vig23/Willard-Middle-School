@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#video {
+    width: 100%;
+    height: 500px;
+    border: none;
+}
+
+#maqueestyle {
+    background-color: blue color:white;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+}
+
+#map iframe {
+    width: 100%;
+}
